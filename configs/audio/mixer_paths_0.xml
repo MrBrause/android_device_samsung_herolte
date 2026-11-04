@@ -649,8 +649,8 @@
 		<ctl name="DSP3L Input 1" value="ISRC2DEC1" />
 		<ctl name="DSP3R Input 1" value="ISRC2DEC2" />
 		<ctl name="DSP3 Aux 1" value="ISRC2DEC4" />
-		<ctl name="ASRC1IN1L Input" value="DSP3.1" />
-		<ctl name="ASRC1IN1R Input" value="DSP3.1" />
+		<ctl name="ASRC1IN1L Input" value="ISRC2DEC1" />
+		<ctl name="ASRC1IN1R Input" value="ISRC2DEC1" />
 		<ctl name="AIF2TX1 Input 1" value="ASRC1IN1L" />
 		<ctl name="AIF2TX2 Input 1" value="ASRC1IN1R" />
 		<!-- Call recording route -->

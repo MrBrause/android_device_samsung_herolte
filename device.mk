@@ -42,3 +42,9 @@ $(call inherit-product, device/samsung/universal8890-common/device-common.mk)
 
 # Inherit from the proprietary version
 $(call inherit-product, vendor/samsung/herolte/herolte-vendor.mk)
+
+# Inherit from the ims version
+$(call inherit-product, vendor/samsung/ims/vendor-ims.mk)
+
+# Inherit from the customized ims version
+$(call inherit-product, vendor/samsung/ims/ims.mk)
